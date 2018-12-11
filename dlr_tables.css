@@ -27,6 +27,8 @@ table.schedule {
 table.schedule th,
 table.schedule td {
     border: 1px solid grey;
+    padding: 5px;
+    vertical-align: top;
 }
 
 
@@ -48,13 +50,13 @@ table.schedule tfoot {
     color: white;
 }
 
-/* table.schedule thead tr {
+table.schedule thead tr {
     height: 30px;
 }
 
 table.schedule tbody tr {
     height: 40px;
-} */
+}
 
 /* Column Group Styles */
 
